@@ -2,6 +2,8 @@
 
 A Java program that simulates a two-player Pokémon card battle game using stacks.
 
+## Documentation 
+[**Click Here To See Javadoc**](https://bobbymcd422.github.io/PokemonBattle-Java/)
 ## Features
 - Reads card data from an input file
 - Deals cards between two players
